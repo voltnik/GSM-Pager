@@ -1,6 +1,7 @@
 [![voltNik YouTube](http://voltnik.ru/voltnik-banner.jpg)](https://www.youtube.com/channel/UC4s13gPVOMQVX3P1ZpdUwjA?sub_confirmation=1)
 ![ПРЕВЬЮ](https://github.com/voltNik/GSM-Pager/blob/master/gsm-pager-prev.jpg)
-# GSM пейджер. Возможности: Прием и запись на SD карту входящих SMS сообщений. Обарботка команд. Тачскрин для управления.
+# GSM пейджер. 
+# Возможности: Прием и запись на SD карту входящих SMS сообщений. Обарботка команд. Тачскрин для управления.
 * [Описание проекта](#chapter-0)
 * [Папки проекта](#chapter-1)
 * [Схема подключения](#chapter-2)
@@ -27,6 +28,7 @@
 Подробности сборки в ВИДЕО на канале voltNik: https://youtu.be/-tHfjCzT608
 
 Проект корпуса НИЗ: https://www.tinkercad.com/things/0LVD6s8aOXg
+
 Проект корпуса ВЕРХ: https://www.tinkercad.com/things/fypdwZ0q7p7
 
 <a id="chapter-1"></a>
