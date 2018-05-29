@@ -24,7 +24,7 @@
 - кейс 18650
 - диод Шоттки
 
-Подробности сборки в ВИДЕО на канале voltNik: https://youtu.be/zGlRL-k8BpU
+Подробности сборки в ВИДЕО на канале voltNik: https://youtu.be/-tHfjCzT608
 
 Проект корпуса НИЗ: https://www.tinkercad.com/things/0LVD6s8aOXg
 Проект корпуса ВЕРХ: https://www.tinkercad.com/things/fypdwZ0q7p7
